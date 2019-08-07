@@ -7,4 +7,4 @@ For reference I have uploaded the empty folders for the directory info.
 I have used Augmentor Library for augmentation and created 10,000 sample images.
 
 ## Special Thanks :-
-I learned working with raw images from www.pythonprogramming.net and tensorflow 2.0 for some books and Tensorflow  website.
+I learned working with raw images from www.pythonprogramming.net and tensorflow 2.0 from some books and Tensorflow  website.
